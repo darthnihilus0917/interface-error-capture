@@ -1,0 +1,23 @@
+{
+  "name": "pilmico-interface-error-capture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "interface-error.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darthnihilus0917/interface-error-capture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darthnihilus0917/interface-error-capture/issues"
+  },
+  "homepage": "https://github.com/darthnihilus0917/interface-error-capture#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.0"
+  }
+}
